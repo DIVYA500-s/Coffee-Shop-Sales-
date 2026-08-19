@@ -1,19 +1,19 @@
 
-#  Coffee Shop Sales Analysis
+Coffee Shop Sales Analysis
 
-##  Problem Statement
+  Problem Statement
 The objective of this project is to analyze coffee shop sales data to identify revenue trends, customer behavior, and business opportunities to improve sales performance and operational efficiency.
 
 ---
 
-##  Tools Used
+ Tools Used
 - Microsoft Excel (Power Query, Pivot Tables, Dashboards)
 - Data Cleaning & Transformation
 - Data Visualization
 
 ---
 
-##  Dataset Overview
+ Dataset Overview
 - Total Revenue: $698K+
 - Total Transactions: 149K+
 - 3 Store Locations
@@ -21,7 +21,7 @@ The objective of this project is to analyze coffee shop sales data to identify r
 
 ---
 
-##  Key KPIs
+  Key KPIs
 - Total Sales
 - Total Footfall
 - Average Bill per Person
@@ -29,7 +29,7 @@ The objective of this project is to analyze coffee shop sales data to identify r
 
 ---
 
-##  Key Insights
+  Key Insights
 - Peak sales occur during morning hours (8 AM – 11 AM), indicating strong breakfast demand  
 - Certain products contribute significantly higher revenue, highlighting top-performing categories  
 - Sales are uneven across locations, indicating potential operational differences  
@@ -37,7 +37,7 @@ The objective of this project is to analyze coffee shop sales data to identify r
 
 ---
 
-## Business Recommendations
+ Business Recommendations
 - Increase staffing and inventory during peak morning hours  
 - Introduce promotional offers during low-performing hours to boost sales  
 - Focus marketing on top-selling products to maximize revenue  
@@ -46,13 +46,12 @@ The objective of this project is to analyze coffee shop sales data to identify r
 
 ---
 
-## Dashboard Features
+ Dashboard Features
 - Interactive filters (Month, Day)
 - Revenue and sales trend analysis
 - Product category performance
 - Time-based sales insights
 
 ---
-
-##  Conclusion
+ Conclusion
 This project demonstrates how data analysis can be used to understand business performance and support data-driven decision-making in retail operations.
